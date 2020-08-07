@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/03 - ScreenShots/*.jpg" alt="alt text" width="250" height="250">
+  <img src="/src/inOutTcsmp.png" alt="alt text" width="250" height="250">
 </p>
 
 # TCSMP
