@@ -17,11 +17,11 @@ implementation. Defining a RFC for this TCSMP Protocol
 
 # ScreenShots :
 <p align="center">
-  <img src="/screenshot/1.JPG" alt="alt text" width="250" height="250">
-  <img src="/screenshot/2.JPG" alt="alt text" width="250" height="250">
-  <img src="/screenshot/3.JPG" alt="alt text" width="250" height="250">
-  <img src="/screenshot/4.JPG" alt="alt text" width="250" height="250">
-  <img src="/screenshot/5.JPG" alt="alt text" width="250" height="250">
+  <img src="/screenshot/1.JPG" alt="alt text" width="450" height="350">
+  <img src="/screenshot/2.JPG" alt="alt text" width="450" height="320">
+  <img src="/screenshot/3.JPG" alt="alt text">
+  <img src="/screenshot/4.JPG" alt="alt text">
+  <img src="/screenshot/5.JPG" alt="alt text">
 </p>
 
 # How to install and use the application :
