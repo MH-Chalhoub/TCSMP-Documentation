@@ -25,7 +25,7 @@ implementation. Defining a RFC for this TCSMP Protocol
 </p>
 
 # How to install and use the application :
-1.  Run to instance of the Server (Server.jar) one for BINIOU and the other for POUET.
+1.  Run two instance of the Server (Server.jar) one for BINIOU and the other for POUET.
 2.  Run any number of clients (Client.jar) and the domain name of each client have to be (BINIOU/POUET ex: X@BINIOU.com or Y@POUET.com) and try to send a mail from one client to the other.
 
 ###### The Idea of Dr. Yasser Fadlallah
